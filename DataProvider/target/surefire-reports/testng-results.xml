@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-22T14:55:26 IST" name="Atmecs.DataProvider.Testing" finished-at="2019-08-22T14:55:28 IST" duration-ms="1427">
+    <groups>
+    </groups>
+    <test started-at="2019-08-22T14:55:26 IST" name="Command line test" finished-at="2019-08-22T14:55:28 IST" duration-ms="1427">
+      <class name="Atmecs.DataProvider.Testing">
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod4(java.lang.Object, java.lang.Object)[pri:1, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod4" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[santra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod4(java.lang.Object, java.lang.Object)[pri:1, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod4" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saurabh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chauhan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method signature="testMethod4(java.lang.Object, java.lang.Object)[pri:1, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod4" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method signature="testMethod4(java.lang.Object, java.lang.Object)[pri:1, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod4" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anusha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method signature="testMethod2(java.lang.Object, java.lang.Object)[pri:2, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod2" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[santra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod2(java.lang.Object, java.lang.Object)[pri:2, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod2" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saurabh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chauhan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod2(java.lang.Object, java.lang.Object)[pri:2, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod2" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod2(java.lang.Object, java.lang.Object)[pri:2, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod2" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anusha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod1(java.lang.Object, java.lang.Object)[pri:3, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod1" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[santra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod1(java.lang.Object, java.lang.Object)[pri:3, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod1" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saurabh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chauhan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod1(java.lang.Object, java.lang.Object)[pri:3, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod1" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method signature="testMethod1(java.lang.Object, java.lang.Object)[pri:3, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod1" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anusha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod3(java.lang.Object, java.lang.Object)[pri:4, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod3" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[santra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod3(java.lang.Object, java.lang.Object)[pri:4, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod3" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saurabh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chauhan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod3(java.lang.Object, java.lang.Object)[pri:4, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod3" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+        <test-method is-config="true" signature="BeforeTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="BeforeTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestmessage -->
+        <test-method signature="testMethod3(java.lang.Object, java.lang.Object)[pri:4, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="testMethod3" data-provider="data-provider" finished-at="2019-08-22T14:55:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anusha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method is-config="true" signature="AfterTestmessage()[pri:0, instance:Atmecs.DataProvider.Testing@46daef40]" started-at="2019-08-22T14:55:28 IST" name="AfterTestmessage" finished-at="2019-08-22T14:55:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestmessage -->
+      </class> <!-- Atmecs.DataProvider.Testing -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Atmecs.DataProvider.Testing -->
+</testng-results>
